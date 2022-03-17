@@ -1,2 +1,8 @@
+#Ignore silgle file
 new-file.txt
 bin/
+# Ignore all files in the folder
+
+
+# Ignore all .tmp files
+*.tmp
