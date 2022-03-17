@@ -1,5 +1,5 @@
 #Ignore silgle file
-new-file.txt
+another-file.txt
 bin/
 # Ignore all files in the folder
 
